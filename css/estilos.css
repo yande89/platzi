@@ -5,3 +5,10 @@
     border: 2px solid #ddd;
     margin: 0 auto;
 }
+
+#cabecera{
+    background: #eee;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
